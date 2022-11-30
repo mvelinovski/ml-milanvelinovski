@@ -1,2 +1,2 @@
 # ml-milanvelinovski
-Za predmetot masinsko ucenje
+PROEKT PO MASINSKO UCENJE
